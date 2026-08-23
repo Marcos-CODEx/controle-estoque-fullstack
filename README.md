@@ -1,0 +1,24 @@
+# 📦 Controle de Estoque (Full Stack)
+
+Sistema completo para gerenciamento de controle de estoque desenvolvido com API REST no back-end e interface web interativa no front-end.
+
+🔧 Tecnologias Utilizadas
+
+### Back-end
+➤ Java 
+➤ Spring Boot** (Web, Data JPA)
+➤ Maven
+
+### Front-end
+➤ HTML5
+➤ CSS3
+➤ JavaScript (ES6+)
+
+---
+
+## 📁 Estrutura do Repositório
+
+```text
+controle-estoque-fullstack/
+├── controle-estoque/    # API REST em Spring Boot
+└── estoque-frontend/    # Interface Web em HTML, CSS e JS

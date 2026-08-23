@@ -17,15 +17,15 @@ Sistema completo para gerenciamento de controle de estoque desenvolvido com API 
 ---
 
 ⚙️ Como Executar o Projeto
-1. Pré-requisitos
-Java JDK 17+ instalado
 
-Navegador Web atualizado
+1. **Pré-requisitos**
+   * Java JDK 17+ instalado
+   * Navegador Web atualizado
 
 🛠️ Funcionalidades
-[x] Cadastro de produtos
-[x] Listagem e consulta de estoque
-[x] Atualização e remoção de itens
+- [x] Cadastro de produtos
+- [x] Listagem e consulta de estoque
+- [x] Atualização e remoção de itens
 
 ## 📁 Estrutura do Repositório
 

@@ -27,7 +27,7 @@ Sistema completo para gerenciamento de controle de estoque desenvolvido com API 
 - [x] Listagem e consulta de estoque
 - [x] Atualização e remoção de itens
 
-### Acesso ao Banco de Dados (H2 Console)**
+### **Acesso ao Banco de Dados (H2 Console)**
 Com a API rodando, você pode acessar o painel do banco em memória pelo navegador:
 * **URL:** `http://localhost:8080/h2-console`
 * **JDBC URL:** `jdbc:h2:mem:testdb` *(ou a URL definida no seu application.properties)*

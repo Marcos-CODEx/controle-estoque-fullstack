@@ -30,6 +30,9 @@ Sistema completo para gerenciamento de controle de estoque desenvolvido com API 
    * **JDBC URL:** `jdbc:h2:mem:testdb`
    * **User:** `sa`
    * **Password:** *(deixe em branco)*
+  
+3. ** Rodando o Back-end (API)**
+   * **Modo Rápido (Windows):** Basta dar duplo clique no arquivo `iniciar-backend.bat` na raiz do projeto.
 
 ---
 

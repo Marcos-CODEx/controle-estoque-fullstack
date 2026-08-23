@@ -6,7 +6,7 @@ Sistema completo para gerenciamento de controle de estoque desenvolvido com API 
 
 ### Back-end
 ➤ Java 
-➤ Spring Boot** (Web, Data JPA)
+➤ Spring Boot (Web, Data JPA)
 ➤ Maven
 
 ### Front-end
@@ -15,6 +15,17 @@ Sistema completo para gerenciamento de controle de estoque desenvolvido com API 
 ➤ JavaScript (ES6+)
 
 ---
+
+⚙️ Como Executar o Projeto
+1. Pré-requisitos
+Java JDK 17+ instalado
+
+Navegador Web atualizado
+
+🛠️ Funcionalidades
+[x] Cadastro de produtos
+[x] Listagem e consulta de estoque
+[x] Atualização e remoção de itens
 
 ## 📁 Estrutura do Repositório
 
